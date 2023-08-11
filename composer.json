@@ -1,0 +1,21 @@
+{
+    "name": "eykj/alipay",
+    "description": "一一科技支付宝组件",
+    "license": "MIT",
+    "keywords": [
+        "eykj",
+        "alipay"
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Eykj\\Alipay\\": "src/"
+        },
+        "files": [
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
